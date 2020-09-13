@@ -1,0 +1,16 @@
+TEXT MINING
+Much of the world’s data is semi-structured and unstructured, and it lives in text formats. Text mining extracts useful information from oceans of this untapped data. It enables meaningful analysis, like identifying categories, discovering topics, and even detecting underlying sentiment.
+
+You could be sitting on a goldmine of semi-structured and unstructured data, just waiting to have its value unlocked. Alteryx Intelligence Suite empowers you to reveals insights hiding in your text data in just a few clicks.
+
+Image to Text
+
+Automatically pull useful data out of scanned documents and images, ready for analysis at scale.
+
+Topic Modeling
+
+Use drag-and-drop natural language processing to automatically identify themes in and across many documents.
+
+Sentiment Analysis
+
+Harness code-free algorithms to quantify emotions and opinions, bringing reliable analysis to once-subjective information.

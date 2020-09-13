@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/Josehower/sentiment-analysis)](https://repl.it/github/Josehower/sentiment-analysis)
+
 # Sentiment and emotion analyzer
 
 This small app allow the user run an emotion and sentiment analysis to a text.

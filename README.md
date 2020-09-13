@@ -17,7 +17,7 @@ NOTE: don't forget to use "" to wrap your text ("your text here")
 - The second option is to create or save a file into the ./text-analisis folder and run the exact name and extension as parameter:
 
 ```sh
-sh node index.js test.txt
+node index.js test.txt
 ```
 
 NOTE: for best performance is recommended to use a .txt file extension.
